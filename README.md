@@ -35,7 +35,7 @@ make the next one work incorrectly.
 The preferable way to submit the assignment is via GitHub classroom, [invite link](https://classroom.github.com/a/AlaSr1mN),
 see also [course webpage](https://homepage.mi-ras.ru/~sk/lehre/dm_hse/) for details.
 After submitting, you shall see the results of automated testing, which will be used for grading.
-As a fallback, it is also possible to submit via email to <sk@mi-ras.ru>. The same address may be used for 
+As a fallback, it is also possible to submit via email to <slkuznetsov@hse.ru>. The same address may be used for 
 asking questions. 
 
 The deadline is **strict**. If you know you will not be able
@@ -43,5 +43,5 @@ to finish the task before the deadline, please inform **in advance**.
 
 **Cheating will not be tolerated.** 
 The notion of cheating here includes, besides usage of other students' code, also the following: (1) altering
-the test file `boolean_test.py` (removing tests which fail etc); (2) hardcoding the correct results for given
+the test files (removing tests which fail etc); (2) hardcoding the correct results for given
 tests. Any detected case of cheating will result in unchangable mark of 0 points for HW 1.
